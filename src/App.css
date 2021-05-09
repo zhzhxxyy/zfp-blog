@@ -36,7 +36,7 @@
   align-items: center;
   border-bottom: 1px solid rgb(223, 227, 235);
   padding-left: 15px;
-  padding-right: 15px
+  padding-right: 15px;
 }
 
 .errorMessage {
@@ -45,7 +45,6 @@
   color: rgb(161, 15, 15);
 }
 
-
 .search {
   display: flex;
   flex-direction: row;
@@ -53,7 +52,6 @@
   justify-content: center;
   margin-top: 10px;
 }
-
 
 input[type="submit"] {
   padding: 5px;
@@ -65,16 +63,18 @@ input[type="submit"] {
   cursor: pointer;
 }
 
-
 input[type="submit"]:hover {
   background-color: #282c34;
   color: antiquewhite;
 }
 
-
-.search > input[type="text"]{
+.search > input[type="text"] {
   width: 40%;
   min-width: 170px;
+}
+
+.paginationDiv {
+  margin-left: 15px;
 }
 
 @media screen and (min-width: 694px) and (max-width: 915px) {
@@ -88,7 +88,6 @@ input[type="submit"]:hover {
     max-width: 50%;
   }
 }
-
 
 @media screen and (max-width: 651px) {
   .movie {
