@@ -94,4 +94,121 @@
   font-style: normal;
   color: rgb(53, 63, 82);
   opacity: 1;
+  text-align: start;
+}
+.vXYMB {
+  display: block;
+  padding: 0.25rem;
+  color: rgb(0, 135, 90);
+  background: rgb(209, 240, 219);
+  border: 1px solid rgb(209, 240, 219);
+  border-radius: 0.25rem;
+  cursor: pointer;
+  width: fit-content !important;
+}
+.cIeQia {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+}
+.dSCEXn {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+}
+.dSCEXn > :not(:last-child) {
+  margin-bottom: 5px;
+}
+.gMWvxK {
+  display: flex;
+  flex-direction: row;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  align-items: space-between;
+  width: 100%;
+}
+.gMWvxK > :first-child {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin-right: 5px;
+  max-width: 350px;
+  width: 100%;
+}
+.esnCUU {
+  display: flex;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  align-items: center;
+}
+.esnCUU > :first-child {
+  margin-right: 5px;
+}
+.brKiji {
+  fill: rgb(61, 137, 245);
+}
+.ePxPaY {
+  display: flex;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  padding-top: 0.7rem;
+}
+.hDAkGl {
+  width: 24px;
+  height: 24px;
+  fill: rgb(51, 159, 123);
+}
+.emJpZF {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+}
+.fydHVU {
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+}
+.dVzTcW {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+  flex-direction: row;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+}
+.gubqVD {
+  display: flex;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 100%;
+  padding-top: 0.7rem;
+}
+.behEow {
+  display: flex;
+  flex-direction: row;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  align-items: center;
 }
