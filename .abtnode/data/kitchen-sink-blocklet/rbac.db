@@ -1,0 +1,9 @@
+{"$$indexCreated":{"fieldName":"name","unique":true,"sparse":false}}
+{"name":"owner","title":"Owner","type":"role","grants":[],"_id":"dGvAUCteKiPDFSWJ"}
+{"name":"admin","title":"Admin","type":"role","grants":[],"_id":"oKrihCmLrmr8yHnI"}
+{"name":"member","title":"Member","type":"role","grants":[],"_id":"2zCa9LT1uQHKEUV4"}
+{"name":"guest","title":"Guest","type":"role","grants":[],"_id":"I8KWKQxRkdnzcd14"}
+{"name":"access_publicUrl","description":"Access resources under the publicUrl interface","extra":{"isProtected":true},"type":"permission","_id":"WPGRrK9M00NiZwWb"}
+{"name":"access_adminUrl","description":"Access resources under the adminUrl interface","extra":{"isProtected":true},"type":"permission","_id":"QKGEsDVjDYKUlHmh"}
+{"name":"access_configUrl","description":"Access resources under the configUrl interface","extra":{"isProtected":true},"type":"permission","_id":"caE2dzTaI70TWPMM"}
+{"name":"access_API","description":"Access resources under the API interface","extra":{"isProtected":true},"type":"permission","_id":"Dn2800wMMftvpXro"}

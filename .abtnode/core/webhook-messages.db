@@ -1,0 +1,2 @@
+{"_id":"be931b9a-7500-4416-9aa2-8a27750546fd","job":{"title":"Run 'node app/hooks/pre-uninstall.js' failed, check the description for more detailed error information","description":"pre uninstall hook failure won't block the uninstall\n","status":"error","action":"","entityType":"blocklet"},"retryCount":1,"cancelled":false,"createdAt":1620532323197,"updatedAt":1620532323197}
+{"$$deleted":true,"_id":"be931b9a-7500-4416-9aa2-8a27750546fd"}
