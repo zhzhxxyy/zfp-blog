@@ -1,0 +1,6 @@
+{"$$indexCreated":{"fieldName":"name","unique":true,"sparse":false}}
+{"name":"owner","title":"Owner","type":"role","grants":[],"_id":"v3WQzyWONvX4aZKt"}
+{"name":"admin","title":"Admin","type":"role","grants":[],"_id":"d19FUXGgqUNrnN3Y"}
+{"name":"member","title":"Member","type":"role","grants":[],"_id":"CBD6i70t8IyuHwXm"}
+{"name":"guest","title":"Guest","type":"role","grants":[],"_id":"zdYIXDMttRfQ4Bfc"}
+{"name":"access_publicUrl","description":"Access resources under the publicUrl interface","extra":{"isProtected":true},"type":"permission","_id":"U6pEEQUkyZSYxJRu"}

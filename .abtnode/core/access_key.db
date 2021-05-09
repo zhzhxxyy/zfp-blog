@@ -1,0 +1,4 @@
+{"$$indexCreated":{"fieldName":"accessKeyId","unique":true,"sparse":false}}
+{"accessKeyId":"z1m3x4k7YuimskYkv16YU6LmcPWYDn56Uwv","accessKeyPublic":"0xb9aec6e5b94d25e9d4cf0e2a05c735949d9579421e8b24decfb8b341646e53d5","remark":"__local-deploy__","_id":"0jLhP913zGC98MBZ","createdAt":{"$$date":1620531796600},"updatedAt":{"$$date":1620531796600}}
+{"accessKeyId":"z1m3x4k7YuimskYkv16YU6LmcPWYDn56Uwv","accessKeyPublic":"0xb9aec6e5b94d25e9d4cf0e2a05c735949d9579421e8b24decfb8b341646e53d5","remark":"__local-deploy__","_id":"0jLhP913zGC98MBZ","createdAt":{"$$date":1620531796600},"updatedAt":{"$$date":1620531796858},"lastUsedAt":"2021-05-09T03:43:16.857Z"}
+{"$$deleted":true,"_id":"0jLhP913zGC98MBZ"}

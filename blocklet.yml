@@ -1,0 +1,56 @@
+name: query-transation
+version: 0.1.0
+description: Demo blocklet that showing how blocklet works in ABT node
+files:
+  - blocklet.md
+  - README.md
+  - build
+  - app/hooks/post-install.js
+  - app/hooks/pre-stop.js
+  - app/hooks/pre-install.js
+  - app/hooks/pre-start.js
+  - app/hooks/pre-uninstall.js
+  - app/hooks/pre-config.js
+title: Query Transation
+keywords:
+  - static
+  - demo
+  - react
+description: Blocklet from local query-transation
+group: static
+main: build
+author:
+  name: zfp
+scripts:
+  dev: npm run start
+  preInstall: node app/hooks/pre-install.js
+  postInstall: node app/hooks/post-install.js
+  preStart: node app/hooks/pre-start.js
+  preStop: node app/hooks/pre-stop.js
+  preUninstall: node app/hooks/pre-uninstall.js
+  preConfig: node app/hooks/pre-config.js
+specVersion: 1.0.2
+did: z8iZvpvLdpfxkvTFdawCF3s5UJdUSkP2NXqPC
+community: ''
+documentation: ''
+license: ''
+interfaces:
+  - type: web
+    name: publicUrl
+    path: /
+    prefix: '*'
+    port: BLOCKLET_PORT
+    protocol: tcp
+environments: []
+screenshots: []
+timeout:
+  start: 10
+requirements:
+  abtnode: '>=1.1.0'
+  os: '*'
+  cpu: '*'
+charging:
+  price: 0
+  tokens: []
+  shares: []
+children: []
